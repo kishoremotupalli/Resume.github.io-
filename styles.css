@@ -1,0 +1,72 @@
+body {
+    font-family: _____, sans-________;
+    line-height: ___;
+    margin: ___;
+    padding: ___;
+    background-color: ___;
+    color: ___;
+}
+
+.resume {
+    max-width: 800px;
+    margin: ___ auto;
+    padding: ___;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    text-align: ___;
+    border-bottom: 2px solid #333;
+    padding-bottom: ___px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: ___em;
+}
+
+header p {
+    margin: 0;
+    font-size: 1.2em;
+    color: ___;
+}
+
+section {
+    margin-top: ___px;
+}
+
+section h2 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+}
+
+.contact-info p,
+.summary p,
+.job p,
+.school p {
+    margin: 10px 0;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+ul li {
+    margin: 5px 0;
+}
+
+h3 {
+    font-size: 1.2em;
+    margin-top: 10px;
+}
+
+a {
+    color: ___;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,19 @@
+Objective:
+Students will explore the features of HTML and CSS by creating a personal resume webpage. This assignment will help students understand the structure of HTML, the styling capabilities of CSS, and how to combine both to create a visually appealing resume.
+
+Instructions:Understand the Basic Structure:
+Read through the provided HTML and CSS templates to understand their structure and functionality.
+Modify the templates to include your information.
+
+Customize Your Resume:
+Replace the placeholder information in the HTML template with your details.
+Add additional sections if needed (e.g., Projects, Certifications).
+Customize the styling in the CSS file to match your preferences.
+
+Add a Profile Picture:
+Add an image tag in the HTML to include your profile picture.
+Use CSS to style the image appropriately.
+
+  
+Deploy Your Resume:
+Use a service like GitHub Pages to host your resume online.
